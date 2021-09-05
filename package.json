@@ -1,5 +1,5 @@
 {
-  "name": "merkle-tools",
+  "name": "merkle-tools-with-keccak256",
   "version": "1.4.1",
   "description": "Tools for creating merkle trees, generating merkle proofs, and verification of merkle proofs.",
   "main": "merkletools.js",
